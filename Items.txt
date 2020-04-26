@@ -1,0 +1,20 @@
+Dark Cloud,Legendary,This ancient matter is so unknown that there is almost no documantation. Traces have been found in the studies of Ultimite the legendary dragon.,150
+Obsidian Sword,Epic,The only known weapon able to slay Ultimite the legendary dragon. Sell to the highest bidder at the SHOP and become the richest man in the land.,125
+Iro's Stone,Epic,Iro is one off the most legendary riders in the world! Use his stone to capture any dragon that you run into! But be careful; Iro never got the chance to use his stone on Ultimite,120
+Dragon Egg,Epic,Has not been seen in the wild in centuries! Hatch at the INCUBATION STATION to obtain a new Dragon or sell for a hefty price at the SHOP.,90
+Dragon Scales,Rare,Shed from dragons. These scales are known some of the most durable armor. Many traders would be willing to buy in the SHOP.,70
+Saphire Gem,Rare,Made from coal under immense dragon fire heat. Can be sold at the SHOP.,65
+Salt Rock,Rare,Cooks love these crystals for salting their food and they are suprisingly hard to come by!,60
+Map,Rare,This will grant you access to a larger view of them map once you find it. Make sure to pick this Item up!,25
+Ancient Arrowhead,Rare,This belonged to the natives of this land. They have all been slaid but there relics are worth a lot!,20
+Gold Coin,Rare,Some unlucky traveller must have dropped this! Finders keepers loosers weepers,70
+Dragon Horn,Rare,Dragon Horns are rare and with the right buyer can sell for a good price. Head over to the SHOP to sell them.,50
+Dragon Claws,Common,Not used for much. Dragon claws are commonly found amound the land.,15
+Coal Chunks,Common,Coal Chunks are very common and found on the ground. Can be sold for a small price at the SHOP.,8
+Eucalyptus Leaf,Common,Used by the mages in healing potions!,15
+Petrified Owl,Common,These ancient creatures are from the Dark Era. A relic from the past can be sold at the SHOP.,9
+Stick,Common,Just a stick.,0
+Dragon Heart String,Common,Ripped from the heart of a dragon; these heart strings make beautiful harps!,9
+Wooden Duck,Common,A relic from the past? Or a relic from the future? No one knows. Bring this to the SHOP to see what it's worth.,50
+Silver Coin,Common,It's your lucky day! You found money on the ground.,30
+Bronze Coin,Common,Better than nothing!,10

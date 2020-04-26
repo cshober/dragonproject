@@ -1,0 +1,20 @@
+Ultimite,Legendary,Legendary Dark Matter,99,99,99,Ultimite is the most untamable dragon in all of the land. This dragon has slain millions and no man has ever gained his loyalty. Some say he can teleport others say he isnt real. No one knows if he was born or created.
+Drogoshmo,Epic,Black Lightning,80,90,100,The fastest dragon in the land. No man has seen this dragon up close as it faster than light.
+Ladoonga,Epic,Metal,92,91,69,This dragon is known for being undefeated in battle and king of the ground. Though it's bulky rock body is slow it is capable of dealing serious damage.
+Dark Shneably,Epic,Aurora,92,89,90,This dragon is one of a kind. This Shneably dragon infused with dark matter can only be seen by the witches of the west.
+Vialark,Rare,Blue Fire,75,60,50,The only known dragon to breath blue fire! This beast is not the fastest or the tuffest but it hits hard!
+Screeman,Rare,Sound,55,66,75,This dragon can move faster than sound itself. They do not breath fire but instead shoot a sound wave reaking havoc on his victims hearing.
+Shneably,Rare,Light,60,55,65,This dragon is suprising slow but brighter than the sun. There enemies can barely even see them before they are bestef.
+Incinabator,Rare,Red Fire,65,40,50,Known as the most distrutive of dragons. These dragons are hunted relentlesly due to the tendanies to burn cities and villages.
+Woocombo,Rare,Tidal,60,55,55,This dragon is more of flying monkey than a dragon. He is hideous but incredibly unique.
+Shlakt,Rare,Snow,41,33,56,The only dragons known to be colder than ice but still breath fire. This dragon is one of a kind.
+Sagcheek,Rare,Saggy,60,55,32,He may be saggy; but don't let this fool you! Sagcheek will clap his cheeks together producing a ground shaking earthquake that will reak havoc on those nearby!
+Fleshmeat,Rare,Meaty,55,75,20,This zombie like abomination is used in many folk lore tales to scare children. He is both the dragon of death and the cause for childrens nighmares.
+Frogmotron,Common,Tidal,6,16,10,This common dragon is known for it's incredibly obnoxious voice. It niether croaks nor roars but squeels instead.
+Partania,Common,Moon,6,16,7,This is the most magestic of the common dragons. Many believe Partanias are the goddess of all dragons.
+Shmee,Common,Snow,12,5,10,Named after Anakin Skywalkers mom. This dragon is very weak and feable and is colder than ice but is known for birthing some of the strongest.
+Zaptamotron,Common,Wind,10,10,10,Combining the speed of the wind and the strngth of lightning Zaptamotron is one of the most well rounded common dragons out there.
+Albutoroar,Common,Earth,7,17,11,As of most earth dragons this dragon is extremely tuff. Although slow this is the first known type of earth dragon.
+Lightmark,Common,Space,11,15,12,Blacker than the night this dragon is very secretive but yet so common.
+Teenytitbit,Common,Wind,8,5,17,The smallest dragon that in recorded history. This dragon is super fast but can be squashed like a bug.
+Weedleshnee,Common,None,9,15,7,By far the worst dragon you could obtain. This dragon is capable of squirming on the floor. He is known for his incredible resemblance to the Ultimite dragon; a very common mistake.
